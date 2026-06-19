@@ -1,4 +1,4 @@
-# 🎉 EventX - Event Management System
+<img width="1901" height="931" alt="image" src="https://github.com/user-attachments/assets/2eee584d-54f5-4b9f-900b-a47a1c24ee43" /># 🎉 EventX - Event Management System
 
 > 📚 **Assignment Project** | Full-Stack Event Management Platform
 
@@ -40,65 +40,27 @@ A **modern, full-stack event management platform** that brings events to life! �
 ### Landing Page & Navigation
 
   ![Landing Page](https://github.com/user-attachments/assets/bb22e257-d982-432b-9a3f-4cb8059462c6)
-  ![Event Discovery](<img width="1901" height="929" alt="image" src="https://github.com/user-attachments/assets/809be9dd-02ba-4504-b90d-e72eeccb7746" />)
-  
-
+  ![Event Discovery](https://github.com/user-attachments/assets/809be9dd-02ba-4504-b90d-e72eeccb7746)
+ 
 ### Event Registration & Payment
-<div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="<img width="1896" height="925" alt="image" src="https://github.com/user-attachments/assets/33cf4dbd-f7ab-4589-83a9-da19b44db463" />
-" alt="Registration Form" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Registration Form</strong></small></p>
-  </div>
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="<img width="1901" height="931" alt="image" src="https://github.com/user-attachments/assets/9d86217e-a0d7-4b9d-b884-01a0788dfe74" />
-" alt="Payment Gateway" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Payment Processing</strong></small></p>
-  </div>
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/b45c9142-59c7-4d78-9e1b-ba998382586c" />
-" alt="Payment Success" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Payment Success</strong></small></p>
-  </div>
-</div>
+![Registration Form](https://github.com/user-attachments/assets/33cf4dbd-f7ab-4589-83a9-da19b44db463)
+
+ ![Payment Processing](https://github.com/user-attachments/assets/9d86217e-a0d7-4b9d-b884-01a0788dfe74)
+ ![Payment Success](https://github.com/user-attachments/assets/b45c9142-59c7-4d78-9e1b-ba998382586c)
+
 
 ### Dashboard & User Profile
-<div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: space-between;">
-  
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="<img width="1894" height="929" alt="image" src="https://github.com/user-attachments/assets/6dc99e89-fef1-483a-b79d-787c5e9a0b85" />
-" alt="User Profile" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>User Profile</strong></small></p>
-  </div>
-</div>
+![User Profile](https://github.com/user-attachments/assets/6dc99e89-fef1-483a-b79d-787c5e9a0b85)
 
 ### Additional Features & Pages
-<div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="<img width="1894" height="925" alt="image" src="https://github.com/user-attachments/assets/371ac36f-2f47-4c3f-a1e3-d2d03d434353" />
-" alt="Certificate Verification" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Certificate Verify</strong></small></p>
-  </div>
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="<img width="1901" height="929" alt="image" src="https://github.com/user-attachments/assets/c90ce514-c9fc-4369-b72c-a4e906247056" />
-" alt="Pricing Plans" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Pricing Plans</strong></small></p>
-  </div>
-</div>
+![Certificate Verify](https://github.com/user-attachments/assets/371ac36f-2f47-4c3f-a1e3-d2d03d434353)
+![Pricing Plans](https://github.com/user-attachments/assets/c90ce514-c9fc-4369-b72c-a4e906247056)
+
 
 ### Additional Page Views
-<div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 0 1 calc(33.33% - 7px); text-align: center;">
-    <img src="<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/951d11b6-a14a-4107-9580-127dbc4ce0d7" />
-" alt="Event Community" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Email Confiramtion</strong></small></p>
-  </div>
-  <div style="flex: 0 1 calc(33.33% - 7px); text-align: center;">
-    <img src="<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/b2c2735f-d7e6-45e3-b1a5-59ccecba76d2" />
-" alt="Integrations Page" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Email Certificate</strong></small></p>
-  </div>
-</div>
+![Email Confiramtion](https://github.com/user-attachments/assets/951d11b6-a14a-4107-9580-127dbc4ce0d7)
+   
+![Email Certificate](https://github.com/user-attachments/assets/b2c2735f-d7e6-45e3-b1a5-59ccecba76d2)
 
 ## �🛠️ Tech Stack
 
