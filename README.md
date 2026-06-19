@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ What is CertifyHub?
+## ✨ What is EventX?
 
 A **modern, full-stack event management platform** that brings events to life! 🚀
 
@@ -279,25 +279,6 @@ This is an **assignment project** showcasing a complete full-stack event managem
 
 ---
 
-## 👨‍💻 Author
-
-**Harsh Verma**  
-GitHub: [@Harsh181507](https://github.com/Harsh181507)  
-Email: dev.kumarharshraj@gmail.com
-
----
-
-## 📄 License
-
-MIT License - Feel free to use this project for your reference! 📚
-
----
-
-<div align="center">
-
-### Made with ❤️ by Harsh Verma
-
-**⭐ Don't forget to star the repository!**
 
 </div>
 
