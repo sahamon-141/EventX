@@ -1,4 +1,4 @@
-<img width="1901" height="931" alt="image" src="https://github.com/user-attachments/assets/2eee584d-54f5-4b9f-900b-a47a1c24ee43" /># 🎉 EventX - Event Management System
+# 🎉 EventX - Event Management System
 
 > 📚 **Assignment Project** | Full-Stack Event Management Platform
 
@@ -38,7 +38,7 @@ A **modern, full-stack event management platform** that brings events to life! �
 ## � Screenshots
 
 ### Landing Page & Navigation
-
+  
   ![Landing Page](https://github.com/user-attachments/assets/bb22e257-d982-432b-9a3f-4cb8059462c6)
   ![Event Discovery](https://github.com/user-attachments/assets/809be9dd-02ba-4504-b90d-e72eeccb7746)
  
