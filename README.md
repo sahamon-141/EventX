@@ -40,79 +40,58 @@ A **modern, full-stack event management platform** that brings events to life! ð
 ### Landing Page & Navigation
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: space-between;">
   <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235055.png" alt="Landing Page" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/bb22e257-d982-432b-9a3f-4cb8059462c6" />
+" alt="Landing Page" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <p><small><strong>Landing Page</strong></small></p>
   </div>
+  
   <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235109.png" alt="Navigation & Features" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Features Overview</strong></small></p>
-  </div>
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235117.png" alt="Event Discovery" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="<img width="1600" height="900" alt="image" src="<img width="1901" height="929" alt="image" src="https://github.com/user-attachments/assets/4bea2a17-d68f-4507-bb55-b6b6a2bf1277" />
+" />
+" alt="Event Discovery" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <p><small><strong>Event Discovery</strong></small></p>
-  </div>
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235203.png" alt="Event Details" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Event Details</strong></small></p>
   </div>
 </div>
 
 ### Event Registration & Payment
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: space-between;">
   <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235213.png" alt="Registration Form" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="<img width="1896" height="925" alt="image" src="https://github.com/user-attachments/assets/33cf4dbd-f7ab-4589-83a9-da19b44db463" />
+" alt="Registration Form" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <p><small><strong>Registration Form</strong></small></p>
   </div>
   <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235220.png" alt="Payment Gateway" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="<img width="1901" height="931" alt="image" src="https://github.com/user-attachments/assets/9d86217e-a0d7-4b9d-b884-01a0788dfe74" />
+" alt="Payment Gateway" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <p><small><strong>Payment Processing</strong></small></p>
   </div>
   <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235232.png" alt="Payment Success" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/b45c9142-59c7-4d78-9e1b-ba998382586c" />
+" alt="Payment Success" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <p><small><strong>Payment Success</strong></small></p>
-  </div>
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235256.png" alt="Certificate Generation" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Certificate Generated</strong></small></p>
   </div>
 </div>
 
 ### Dashboard & User Profile
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: space-between;">
+  
   <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235343.png" alt="User Dashboard" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>User Dashboard</strong></small></p>
-  </div>
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235351.png" alt="User Profile" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="<img width="1894" height="929" alt="image" src="https://github.com/user-attachments/assets/6dc99e89-fef1-483a-b79d-787c5e9a0b85" />
+" alt="User Profile" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <p><small><strong>User Profile</strong></small></p>
-  </div>
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235359.png" alt="Organizer Dashboard" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Organizer Dashboard</strong></small></p>
-  </div>
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235406.png" alt="My Registrations" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>My Registrations</strong></small></p>
   </div>
 </div>
 
 ### Additional Features & Pages
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: space-between;">
   <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235412.png" alt="Certificate Verification" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="<img width="1894" height="925" alt="image" src="https://github.com/user-attachments/assets/371ac36f-2f47-4c3f-a1e3-d2d03d434353" />
+" alt="Certificate Verification" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <p><small><strong>Certificate Verify</strong></small></p>
   </div>
   <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235422.png" alt="About Page" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>About Page</strong></small></p>
-  </div>
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235433.png" alt="Contact Page" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Contact Page</strong></small></p>
-  </div>
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-09 235440.png" alt="Pricing Plans" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="<img width="1901" height="929" alt="image" src="https://github.com/user-attachments/assets/c90ce514-c9fc-4369-b72c-a4e906247056" />
+" alt="Pricing Plans" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <p><small><strong>Pricing Plans</strong></small></p>
   </div>
 </div>
@@ -120,12 +99,14 @@ A **modern, full-stack event management platform** that brings events to life! ð
 ### Additional Page Views
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: space-between;">
   <div style="flex: 0 1 calc(33.33% - 7px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-10 000014.png" alt="Event Community" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Event Community</strong></small></p>
+    <img src="<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/951d11b6-a14a-4107-9580-127dbc4ce0d7" />
+" alt="Event Community" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <p><small><strong>Email Confiramtion</strong></small></p>
   </div>
   <div style="flex: 0 1 calc(33.33% - 7px); text-align: center;">
-    <img src="outputImages/Screenshot 2026-04-10 000035.png" alt="Integrations Page" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Integrations</strong></small></p>
+    <img src="<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/b2c2735f-d7e6-45e3-b1a5-59ccecba76d2" />
+" alt="Integrations Page" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <p><small><strong>Email Certificate</strong></small></p>
   </div>
 </div>
 
