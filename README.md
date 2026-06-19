@@ -1,4 +1,4 @@
-# 🎉 CertifyHub - Event Management System
+# 🎉 EventX - Event Management System
 
 > 📚 **Assignment Project** | Full-Stack Event Management Platform
 
