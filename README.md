@@ -38,12 +38,9 @@ A **modern, full-stack event management platform** that brings events to life! ð
 ## ï¿½ Screenshots
 
 ### Landing Page & Navigation
-<div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
-    <img src="<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/bb22e257-d982-432b-9a3f-4cb8059462c6" />
-" alt="Landing Page" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p><small><strong>Landing Page</strong></small></p>
-  </div>
+
+  ![Landing Page]<img https://github.com/user-attachments/assets/bb22e257-d982-432b-9a3f-4cb8059462c6" />
+
   
   <div style="flex: 0 1 calc(25% - 8px); text-align: center;">
     <img src="<img width="1600" height="900" alt="image" src="<img width="1901" height="929" alt="image" src="https://github.com/user-attachments/assets/4bea2a17-d68f-4507-bb55-b6b6a2bf1277" />
